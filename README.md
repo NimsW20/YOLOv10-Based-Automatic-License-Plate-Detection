@@ -24,3 +24,5 @@ YOLOv10 brings several new features and improvements over previous versions:
 
 Uterlytics was used for data analysis and visualization.
 Data Preparation: Dataset was downloaded from Roboflow and manually labelled to create accurate annotations.
+
+Note: This model can be used for realtime object detection as well. And we can use it for any custom dataset.
