@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Yolo10/custom_dataset/dataset/train
+val: /content/drive/MyDrive/Yolo10/custom_dataset/dataset/valid
+
+nc: 1
+names: ['licence']
