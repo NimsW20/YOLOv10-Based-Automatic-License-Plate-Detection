@@ -21,7 +21,7 @@ YOLOv10 brings several new features and improvements over previous versions:
 - **Rank-Guided Block Design**: Incorporates a rank-guided design for network blocks, optimizing the architecture for better performance.
 
 # Architecture
-![Architecture]()
+![Architecture](https://github.com/NimsW20/YOLOv10-Based-Automatic-License-Plate-Detection/blob/cae912a9bccccb7127786662e014ec52d3b855f6/images/image.png)
 
 # Why version 10 is better?
 YOLOv10 builds on the strengths of its predecessors with key enhancements in speed, accuracy, and efficiency. It introduces a more advanced backbone architecture and integrates attention mechanisms to improve detection in challenging environments, particularly for small or densely packed objects. With multi-scale prediction improvements and a streamlined detection head, YOLOv10 delivers higher accuracy (mAP) without compromising on real-time performance. Its optimized design for edge devices makes it lightweight, faster, and suitable for deployment in low-power environments, offering a superior balance of precision and speed compared to earlier YOLO versions.
