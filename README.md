@@ -20,6 +20,13 @@ YOLOv10 brings several new features and improvements over previous versions:
 - **Spatial-Channel Decoupled Downsampling**: Implements a novel downsampling technique that decouples spatial and channel information, leading to better feature extraction.
 - **Rank-Guided Block Design**: Incorporates a rank-guided design for network blocks, optimizing the architecture for better performance.
 
+# Architecture
+![Architecture]()
+
+# Why version 10 is better?
+YOLOv10 builds on the strengths of its predecessors with key enhancements in speed, accuracy, and efficiency. It introduces a more advanced backbone architecture and integrates attention mechanisms to improve detection in challenging environments, particularly for small or densely packed objects. With multi-scale prediction improvements and a streamlined detection head, YOLOv10 delivers higher accuracy (mAP) without compromising on real-time performance. Its optimized design for edge devices makes it lightweight, faster, and suitable for deployment in low-power environments, offering a superior balance of precision and speed compared to earlier YOLO versions.
+![Yolo Versions Comparison](https://github.com/NimsW20/YOLOv10-Based-Automatic-License-Plate-Detection/blob/b568e17fb9e7f8243b536e42d02253d37720b9e6/images/Yolo%20versions%20comparison.png)
+
 **Libraries and Tools**
 
 Uterlytics was used for data analysis and visualization.
